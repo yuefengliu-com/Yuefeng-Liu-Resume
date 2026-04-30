@@ -100,7 +100,7 @@ export const CONTENT: Record<'en' | 'zh', ResumeContent> = {
           degree: "M.A. in Public Management",
           period: "Aug 2023 - May 2025",
           gpa: "3.8/4.0",
-          logo: "https://brand.jhu.edu/wp-content/uploads/2024/07/logos-vertical-1024x683.jpg",
+          logo: "https://brand.jhu.edu/wp-content/uploads/2024/07/logos-black-on-whitejpg-1024x683.jpg",
           courseLabel: "Core Courses",
           courses: [
             "Risk Management Analytics",
@@ -282,7 +282,7 @@ export const CONTENT: Record<'en' | 'zh', ResumeContent> = {
           degree: "公共管理硕士",
           period: "2023年8月 - 2025年5月",
           gpa: "3.8/4.0",
-          logo: "https://brand.jhu.edu/wp-content/uploads/2024/07/logos-vertical-1024x683.jpg",
+          logo: "https://brand.jhu.edu/wp-content/uploads/2024/07/logos-black-on-whitejpg-1024x683.jpg",
           courseLabel: "核心课程",
           courses: [
             "风险管理分析",
