@@ -43,7 +43,7 @@ export const CONTENT: Record<'en' | 'zh', ResumeContent> = {
         },
         {
           title: "Strategic Research",
-          description: "Executing large-scale field surveys and quantitative analysis to evaluate market trends and ESG impact."
+          description: "Evaluating market trends and ESG impact through quantitative analysis and comprehensive policy research."
         }
       ]
     },
@@ -75,31 +75,6 @@ export const CONTENT: Record<'en' | 'zh', ResumeContent> = {
             "Led an online Power BI training session that enhanced the department's data analysis capabilities."
           ],
           skills: ["Power BI", "DAX", "R Studio", "Market Trend Analysis"]
-        },
-        {
-          company: "Dept of Neighborhood & Business Development",
-          role: "Planning Intern",
-          location: "Syracuse, NY",
-          period: "September 2022 - December 2022",
-          description: [
-            "Analyzed and organized over 400 weekly Rental Registry entries, enabling trend comparisons of vacant houses.",
-            "Coordinated with the Planning team on community garbage can initiative and purchasing evaluations.",
-            "Completed over 1,000 property investigations as part of the City of Syracuse’s housing survey project."
-          ],
-          skills: ["Urban Planning", "Field Research", "Policy Implementation", "Data Organization"]
-        },
-        {
-          company: "Ground Department of City of Syracuse",
-          role: "Research Consultant",
-          location: "Syracuse, NY",
-          period: "January 2022 - May 2022",
-          description: [
-            "Converted over 350 non-digitized map documents into Microsoft Excel to analyze facility distribution across city parks.",
-            "Produced a comprehensive analytical report using advanced Excel techniques to analyze 350+ digitized documents.",
-            "Contributed to a 10% increase in facility maintenance efficiency for the City of Syracuse.",
-            "Enabled better planning and resource allocation through data visualization of city infrastructure."
-          ],
-          skills: ["Advanced Excel", "Facility Management", "Data Digitization", "Resource Allocation"]
         },
         {
           company: "China Social Enterprise and Impact Investing Forum (CSEIF)",
@@ -250,7 +225,7 @@ export const CONTENT: Record<'en' | 'zh', ResumeContent> = {
         },
         {
           title: "战略市场研究",
-          description: "具备大规模实地调研与定量政策分析能力，深度评估市场趋势、ESG 与运营可行性。"
+          description: "具备深度数据挖掘与定量政策分析能力，精准评估市场趋势、ESG 影响与战略可行性。"
         }
       ]
     },
@@ -282,31 +257,6 @@ export const CONTENT: Record<'en' | 'zh', ResumeContent> = {
             "主导了 Power BI 线上培训，提升了部门整体的数据分析能力。"
           ],
           skills: ["Power BI", "DAX", "R Studio", "数据分析"]
-        },
-        {
-          company: "雪城邻里与商业发展部",
-          role: "城市规划实习生",
-          location: "美国雪城",
-          period: "2022年9月 - 2022年12月",
-          description: [
-            "整理超过 400 条周度租赁登记条目，实现空置房产的多年趋势对比。",
-            "协助规划团队进行社区垃圾桶项目，评估采购方案以优化社区整洁度。",
-            "完成了超过 1,000 次房产实地调查，作为雪城市住房普查项目的一部分。"
-          ],
-          skills: ["城市规划", "实地调研", "数据管理"]
-        },
-        {
-          company: "雪城市政府地面部",
-          role: "研究顾问",
-          location: "美国雪城",
-          period: "2022年1月 - 2022年5月",
-          description: [
-            "将超过 350 份纸纸地图档案转化为 Excel 数字化记录，以分析设施分布。",
-            "使用高级 Excel 技术产出综合分析报告，直接支持了资源优化配置。",
-            "促使雪城市地面部门的设施维护效率提升了 10%。",
-            "通过数据可视化手段，为公园及城市基础设施的长期规划提供决策依据。"
-          ],
-          skills: ["高级 Excel", "设施管理", "数据数字化", "资源优化"]
         },
         {
           company: "中国社会企业与影响力投资论坛 (CSEIF)",
